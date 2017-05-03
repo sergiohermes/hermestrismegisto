@@ -1,19 +1,19 @@
 # hermestrismegisto
 ## Repositório do principio de medida alternativa.
 
-Acredito plenamente que este invento encontrado, foi este axioma humano. 
+Acredito plenamente que este invento encontrado, foi este axioma humano.
 Porque quem não acredita em um mundo melhor, jamais o trilhara. :)
 
 # 1
 ## 10
 ### 100
 #### 1000
-##### 100000 
+##### 10000
 
 E assim se fez a medida áurea de transposição de elemento.
 
-A própria máquina desenvolvida expõe variáves que são claramente ditas nestes display mostrados em html. 
-Pretendo manter estes relógio na web por um bom tempo, podendo ser utilizado por diversos servidores de compartilhamento, 
+A própria máquina desenvolvida expõe variáves que são claramente ditas nestes display mostrados em html.
+Pretendo manter estes relógio na web por um bom tempo, podendo ser utilizado por diversos servidores de compartilhamento,
 tornamando o projeto real. Um humilde Modelo de Utilidade.
 
 Enfim ele foi muito mais do que tres vezes o grande.
@@ -37,7 +37,7 @@ https://www.google.com.br/maps/place/Antikythera/@35.881192,23.289986,3a,75y,156
 https://www.youtube.com/watch?v=CjyKkTwvpn8
 
 
-Prever eventos celestes e eclipses com precisão sem precedentes. Veja denovo a partir desta parte solte o seu 
+Prever eventos celestes e eclipses com precisão sem precedentes. Veja denovo a partir desta parte solte o seu
 https://youtu.be/CjyKkTwvpn8?t=40
 
 Bom não sendo obstrusivo, este repositório é aberto, porém não tenho condições de mantelo pois hoje.
