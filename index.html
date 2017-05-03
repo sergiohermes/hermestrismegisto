@@ -44,7 +44,7 @@
 
   <!--js -->
   <script type="text/javascript" src="js/moment-with-locales.min.js"></script>
-  <script type="text/javascript" src="js/myjs.js"></script>
+  <script type="text/javascript" src="js/js.js"></script>
 </body>
 
 </html>

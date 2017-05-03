@@ -18,7 +18,7 @@ tornamando o projeto real. Um humilde Modelo de Utilidade.
 
 Enfim ele foi muito mais do que tres vezes o grande.
 
-Relatos e estudos dizem que estamos a 2000 seculos adiante, onde esta medida deve transpor o que hoje somos revelados.
+Relatos e estudos dizem que estamos a 20 séculos adiante, onde esta medida deve transpor o que hoje, somos revelados.
 
 Muito mais do que o espaço/tempo.
 
@@ -26,7 +26,7 @@ Muito mais do que o espaço/tempo.
 
 Mecanismo achado na ilha de Anticythère.
 
-Uma imagem em canvas resolve o contraponto que não é visto por olhos reais e sim do destino.
+Uma imagem em canvas resolve o contraponto que não é visto por olhos reais e sim do destino em achar resultantes proporcinais.
 
 ## O mecanismo de Anticythère.
 Vou compartilhar o codigofonte porque acredito que acima de tudo existe ciência e contudo uma solução hermética e objetiva deste grande invento, e não como estamos acostumados reinvento de reinvento e por aí vai.
