@@ -1,0 +1,14 @@
+{
+    "name": "sergiohermes/hermestrismegisto",
+    "description": "Medida Áurea de Transposição de Elementos",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sérgio Ernane MUnhós Hermes",
+            "email": "hermes.sergio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
