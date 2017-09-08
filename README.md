@@ -4,19 +4,15 @@
 Acredito plenamente que este invento encontrado, foi este axioma humano.
 Porque quem não acredita em um mundo melhor, jamais o trilhara. :)
 
-# 1
-## 10
-### 100
-#### 1000
-##### 10000
+E assim se fez a medida de proporções áureas de transposição e trasmutação de elemento.
 
-E assim se fez a medida áurea de transposição de elemento.
+Como vemos hoje, o movimento dos corpos celestes está equiparado a um laspo no modelo espaço/tempo, temos ciência e conhecimento para entender de fatos esta máquina, seria um aviso? Já prevê eventos de todas as magnitudes. Bons e ruins, Altos e Baixos, do jeito que o universo funciona, em equilibrio?
 
 A própria máquina desenvolvida expõe variáves que são claramente ditas nestes display mostrados em html.
 Pretendo manter estes relógio na web por um bom tempo, podendo ser utilizado por diversos servidores de compartilhamento,
 tornamando o projeto real. Um humilde Modelo de Utilidade.
 
-Enfim ele foi muito mais do que tres vezes o grande.
+Enfim ele foi muito mais do que tres vezes o grande e acredito estar diretamente ligado a isso. Pois sendo o pai da sabedoria, o mesmo é mestre dos mestres.
 
 Relatos e estudos dizem que estamos a 20 séculos adiante, onde esta medida deve transpor o que hoje, somos revelados.
 
