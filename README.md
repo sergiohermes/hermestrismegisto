@@ -39,11 +39,3 @@ https://www.youtube.com/watch?v=CjyKkTwvpn8
 
 Prever eventos celestes e eclipses com precisão sem precedentes. Veja denovo a partir desta parte solte o seu
 https://youtu.be/CjyKkTwvpn8?t=40
-
-Bom não sendo obstrusivo, este repositório é aberto, porém não tenho condições de mantelo pois hoje.
-Então ainda pode ser difícil mante-lo como um todo, moral, estou sem dinheiro nem para os estudos.
-
-Meu país sofre crise existencial, essa que é a real. O que espera de um país de imigrantes. :)
-Tenho certeza que pessoas de boa fé entenderão meu trabalho, mesmo que errante porém correto.
-
-Se quiser contribuir comigo, me pague um café!
